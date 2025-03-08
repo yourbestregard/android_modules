@@ -1,2 +1,3 @@
-# My ROM build is user (2)
-- improved the selector function on magisk by adding a pause between key inputs
+# My ROM build is user (3.5)
+- security patch march 2025
+- yes, that's it
